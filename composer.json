@@ -1,0 +1,9 @@
+{
+  "require": {
+    "paragonie/sodium_compat": ">= v1.19.0"
+  },
+  "provide": {
+    "ext-libsodium": "*",
+    "ext-sodium": "*"
+  }
+}

@@ -5,6 +5,7 @@
     "homepage": "https://paragonie.com",
     "email": "security@paragonie.com"
   }],
+  "license": "ISC",
   "require": {
     "paragonie/sodium_compat": ">= v1.19.0"
   },
